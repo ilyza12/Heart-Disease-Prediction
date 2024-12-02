@@ -1,6 +1,6 @@
 ## About Dataset
 The dataset is located in the `data/` folder:
-- `heart_disease_data.csv`: Contains patient information and target labels.
+- `heart_disease.csv`: Contains patient information and target labels.
 
 ## Data Dictionary
 
